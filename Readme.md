@@ -4,7 +4,7 @@ A utility for correcting a CyberArk update issue.
 
 ## Disclaimer:
 
-This tool is only intended for Lumen clientele impacted by a CyberArk update that is boking Windows for end-users.
+This tool is only intended for Lumen clientele impacted by a CyberArk update that is blocking Windows for end-users.
 
 The maintainer of this repository is _not_ responsible for any data lost as a result of using this tool or modifying its source. By downloading and using release builds, you are agreeing to this condition. _"Loss"_ or _"Damage"_ of personal data includes, but is not limited to:
 
